@@ -3,9 +3,9 @@
 ## Como rodar os testes
 
 ```bash
-mvn test -Dtest=ReqResRunner -e
+mvn test -Dtest=GoRestRunner -e
 ```
 
 ## Obtendo relatório
 
-Basta encontrar o arquivo `api-trabalho/target/karate-reports/api_trabalhofinal.reqres.reqres.html` e abri-lo no navegador
+Basta encontrar o arquivo `/target/karate-reports/prova_karate.gorest.gorest.html` e abri-lo no navegador
